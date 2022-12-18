@@ -1,0 +1,98 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding: 20px 0 10px;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.textFarsi{
+  color: "#4ECCA3";
+  font-family: 'Lalezar', cursive;
+  font-size: 1.4rem;
+}
+body {
+  background-color: #393E46;
+}
+
+.navItem{
+  color:#4ECCA3 ;
+  font-size: 1.4rem;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
+
+.heading-titl{
+  width: 50%;
+  font-size: 2rem;
+}
+
+.language {
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
+
+.chooseLng {
+  width: 50%;
+  font-family: 'Lobster', cursive;
+}
+
+.btnClick{
+  width: 50%;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+hr{
+  border-color: rgba(226, 226, 226, 0.445);
+  width: 70%;
+}
+
+.hrContact{
+  width: 30%;
+}
+
+footer {
+  margin-top: 15px;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.footer-copyright{
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+@media (max-width : 754px) {
+  img{
+    width: 35%;
+  }
+  .img1{
+    margin-bottom: 20px;
+  }
+  .btnClick{
+    width: 40%;
+  }
+}
